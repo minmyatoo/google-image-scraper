@@ -1,6 +1,6 @@
 # 📷 Google Image Scraper
 
-![img.png](img.png)
+![ss.gif](ss.gif)
 
 This Node.js script allows you to scrape images from Google Images based on a query and save them to a specified directory. 🌐
 
